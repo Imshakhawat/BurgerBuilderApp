@@ -1,0 +1,39 @@
+.landingPageBackgroud{
+    width: 100%;
+    background-image: url(../assets/jpg/burger_1.jpg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 100vh;
+
+}
+
+.landingPageBackgroud .home{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 50px;
+    height: 80vh;
+}
+
+.landingPageBackgroud .home h1{
+    font-size: 90px;
+    color: white;
+}
+
+.landingPageBackgroud .home .button{
+    padding: 18px 150px;
+    background-color: rgb(42, 84, 182);
+    color: white;
+    font-size: 1.5rem;
+    border-radius: 10px;
+    transition: all .2s;
+    text-decoration: none;
+}
+.landingPageBackgroud .home .button:hover{
+    /* background-color: rgb(182, 172, 42, 0.8); */
+    cursor: pointer;
+    background-color: rgb(42, 84, 182, 0.9);
+}
+
