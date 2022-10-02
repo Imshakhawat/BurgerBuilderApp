@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/static/css/main.43d9222c.css",
+    "main.js": "/static/js/main.df6741ad.js",
+    "static/media/bg1.jpg": "/static/media/bg1.3aa8d6308cc4d1404fca.jpg",
+    "static/media/burger_1.jpg": "/static/media/burger_1.c5210b3aa31d01432839.jpg",
+    "static/media/tomato.png": "/static/media/tomato.1cc7dc0f116b86263126.png",
+    "static/media/lettuce.png": "/static/media/lettuce.bedc121e579ee11b315e.png",
+    "static/media/patty.png": "/static/media/patty.8129da5d9ad673cd5e29.png",
+    "static/media/cheese.png": "/static/media/cheese.c3ba197f5ce7b47648cd.png",
+    "static/media/top.jpg": "/static/media/top.3068d4525a995e609dfd.jpg",
+    "static/media/meat.jpg": "/static/media/meat.3a06829cca2801876b74.jpg",
+    "static/media/bottom.jpg": "/static/media/bottom.f7f968a332179e480bc9.jpg",
+    "static/media/tomato.jpg": "/static/media/tomato.12a497a6195464f751c9.jpg",
+    "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/index.html",
+    "main.43d9222c.css.map": "/static/css/main.43d9222c.css.map",
+    "main.df6741ad.js.map": "/static/js/main.df6741ad.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.43d9222c.css",
+    "static/js/main.df6741ad.js"
+  ]
+}
